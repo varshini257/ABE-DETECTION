@@ -4,7 +4,7 @@ techniques has gained considerable attention in recent years. This abstract high
 key findings and methodologies employed in developing accurate models for eye color 
 and baldness detection. This study aims to predict the age, bald and eye color of 
 individuals using machine learning algorithms. The dataset used in this research 
-contains information about age, bald and eye color, as well as other demographic 
+contains information about age, bald and eye color, as well as other demographic
 features such as age, gender, and ethnicity. After preprocessing the dataset, several 
 machine learning models were trained and evaluated, including Decision Trees, Random 
 Forest, Support Vector Machines, and Neural Networks. 
